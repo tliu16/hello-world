@@ -1,12 +1,15 @@
 # hello-world
 my first project
-** **
-## getting familiar with syntax
-* italicized text *
-## what 
-> blockquote what is it
+**getting bold**
+## second getting familiar with syntax
+*getting italic*
+### third what happens 
+> **now listen**
 1. write
 2. test
 3. update
-` code `
+
+` what is the code i write `
+
 ---
+...
