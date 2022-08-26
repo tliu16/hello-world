@@ -4,9 +4,10 @@ my first project
 ## second getting familiar with syntax
 *getting italic*
 ### third what happens 
-> blockquote **now listen**
+> **now listen**
 1. write
 2. test
 3. update
+
 ` what is the code i write `
 ---
